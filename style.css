@@ -1,0 +1,29 @@
+.banner {
+    background: url("https://i.pinimg.com/736x/57/23/f6/5723f6b6069bb0a7631f57030a56896a.jpg") 
+        no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(14, 14, 109);
+}
+
+.banner h4 {
+    padding-bottom: 3%;
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-shadow: 3px 2px 5px black;
+    color: rgb(255, 255, 255);
+}
+
+.home {
+    background: url("https://cdn11.bigcommerce.com/s-ve9pmdnvtz/images/stencil/original/products/3731/5581/6455218__17118.1631905409.jpg?c=2&imbypass=on&imbypass=on");
+    
+    color: aliceblue;
+}
+
+.collapse {
+    font-family: 'Bookman Old Style';
+    font-size: 20px;
+    text-shadow: 3px 2px 5px black;
+    color: white;
+}
